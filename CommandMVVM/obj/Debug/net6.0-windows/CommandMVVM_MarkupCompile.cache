@@ -1,0 +1,20 @@
+﻿CommandMVVM
+
+
+winexe
+C#
+.cs
+C:\Users\user\Downloads\CommandMVVM (2)\CommandMVVM\obj\Debug\net6.0-windows\
+CommandMVVM
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\user\Downloads\CommandMVVM (2)\CommandMVVM\App.xaml
+51157605200
+
+151508567970
+197202268756
+Views\Pages\DashboardPage.xaml;Views\Pages\EditCarPage.xaml;Views\Pages\GetAllCarPage.xaml;Views\Windows\EditCarWindow.xaml;Views\Windows\MainView.xaml;
+
+False
+
